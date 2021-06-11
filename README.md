@@ -1,6 +1,11 @@
-### Hi there 👋
+## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ![Header](https://user-images.githubusercontent.com/72529665/121616409-1715c900-ca20-11eb-8903-bb617e315c36.png)
+
+## :crystal_ball: About Me
+My name is Maria Fernanda Ibarra, I'm from Costa rica.
+With a very different background coming from Marketing & Graphic Design. After working in the technology industry for a couple of years, I felt inlove with software engineering, building strong technical knowledge and important soft skills, gaining work experience as a Front End and Back End developer since 2019.
+Always committed to excellence, passionate about my career and proud of my journey.
 
 
 <!--
