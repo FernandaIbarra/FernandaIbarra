@@ -1,15 +1,17 @@
 ## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-![Header](https://user-images.githubusercontent.com/72529665/121620461-9bb81580-ca27-11eb-889d-1a7def0c8538.png)
-
+![Header](https://user-images.githubusercontent.com/72529665/121756063-29523e80-cad6-11eb-8e3f-ab6e4a83474a.png)
 
 ## :crystal_ball: About Me
 #### My name is Maria Fernanda Ibarra, I'm from Costa rica.
-With a very different background coming from Marketing & Graphic Design. After working in the technology industry for a couple of years, I felt inlove with software engineering, building strong technical knowledge and important soft skills, gaining work experience as a Front End and Back End developer since 2019.
-Always committed to excellence, passionate about my career and proud of my journey.
+<p> 
+  With a very different background coming from Marketing & Graphic Design. <br/>
+  After working in the technology industry for a couple of years, I felt inlove with software engineering, building strong technical knowledge and important soft   skills, gaining work experience as a Front End and Back End developer since 2019. <br/>
+  Always committed to excellence, passionate about my career and proud of my journey.
+<p/>
 
-![stats](https://github-readme-stats.vercel.app/api?username=fernandaibarra&show_icons=true&theme=nord)
-![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=fernandaibarra&layout=compact&theme=nord)
+![stats](https://github-readme-stats.vercel.app/api?username=fernandaibarra&show_icons=true&theme=material-palenight)
+![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=fernandaibarra&layout=compact&theme=material-palenight)
 
 
 
