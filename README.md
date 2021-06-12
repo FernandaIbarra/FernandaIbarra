@@ -14,10 +14,23 @@
 ![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=fernandaibarra&layout=compact&theme=material-palenight)
 
 
+<div>
+
+  <img style="float: left;" align="left" src="https://user-images.githubusercontent.com/72529665/121757669-87355500-cadb-11eb-84fa-28378de3639d.png" width="300px" height="300px"/>
+<div >
+  <p> :sparkles: Currently working full time at a software engineering company based in Costa Rica</p>
+  <p> :sparkles: Just started a Full Stack Web Development Master's Degree</p>
+  <p> :sparkles: My every day technologies are: Angular, .Net, SQL, .NetCore, Azure DevOps and Azure Services</p>
+  <p> :sparkles: Love to read and raise awareness about Diversity in Tech</p>
+  <p> :sparkles: Always learning</p>
+</div>
+</div>
+
+
 
 <!--
 **FernandaIbarra/FernandaIbarra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+:crescent_moon:
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
