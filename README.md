@@ -1,6 +1,7 @@
 ## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-![Header](https://user-images.githubusercontent.com/72529665/121756063-29523e80-cad6-11eb-8e3f-ab6e4a83474a.png)
+![Header](https://user-images.githubusercontent.com/72529665/121818717-152d4f00-cc46-11eb-90fb-1c58b6d35c30.png)
+
 
 ## :crystal_ball: About Me
 #### My name is Maria Fernanda Ibarra, I'm from Costa rica.
